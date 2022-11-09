@@ -1,0 +1,29 @@
+.text-center{
+    text-align:center;
+}
+.text-arial{
+    font-family: Arial;
+}
+.img-tm{
+    width: 1200;
+    height: 700;
+}
+#titulo:hover{
+    text-decoration: underline;
+    color: purple;
+
+}
+.menu li{
+    display: inline;
+    margin: 5px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu a:hover{
+color: gray;
+}
+body{
+    background-color:peachpuff;
+}
