@@ -26,4 +26,40 @@ color: gray;
 }
 body{
     background-color:peachpuff;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.p-20{
+padding: 20px;
+}
+.tm-icon {
+    width: 50px; ;
+    height: auto;
+
+}
+.for-flex{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.tm-btn{
+    width:fit-content ;
+    height:fit-content ;
+}
+.p-mw{
+    max-width: 400;
+    
+}
+.cor-div{
+    background-color:palevioletred;
+    margin-top: 0px;
+    padding: 20px;
 }
